@@ -91,3 +91,27 @@ ul {
     text-align: center;
     width: 150px;
 }
+
+.quote-section {
+    background-color: #e5e7eb;
+    margin-top: 72px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+
+    width: 500px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: 700;
+    text-align: right;
+    font-style: normal;
+}
+
