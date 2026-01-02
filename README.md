@@ -14,4 +14,4 @@ This is a project that focuses on building a very common Landing page/Homepage s
 * Footer section
 
 
-*** Credits: Thank you to photographers at Pexels viz., @Bich Tran, @Benni Fish, @Dario Rawert, @Prakasam R, @Mehmet Turgut  Kirkgoz  for providing free images. ***
+__Credits: Thank you to photographers at Pexels viz., @Bich Tran, @Benni Fish, @Dario Rawert, @Prakasam R, @Mehmet Turgut  Kirkgoz  for providing free images.__
