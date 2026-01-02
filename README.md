@@ -1,7 +1,12 @@
 # Project-Landing-Page
+
+## About the project
 Creating an entire webpage using foundational HTML and CSS.
 
-## The Landing page has following sections:
+## Purpose of the project
+This is a project that focuses on building a very common Landing page/Homepage style webpage using foundational CSS and HTML covering HTMl tags, flexbox concepts and more.
+
+## The Landing page has following sections
 * Header section
 * Information section
 * Quotes section
@@ -9,4 +14,4 @@ Creating an entire webpage using foundational HTML and CSS.
 * Footer section
 
 
-### Credits: Thank you to photographers at Pexels viz., @Bich Tran, @Benni Fish, @Dario Rawert, @Prakasam R, @Mehmet Turgut  Kirkgoz  for providing free images. 
+*** Credits: Thank you to photographers at Pexels viz., @Bich Tran, @Benni Fish, @Dario Rawert, @Prakasam R, @Mehmet Turgut  Kirkgoz  for providing free images. ***
